@@ -12,7 +12,7 @@
 * assets/: A directory for images and other media used throughout the website.
 * README.md: The user documentation file.
 
-# Design Principles:
+# Guiding Principles:
 - Simplicity: nothing fancy is needed for a personal website (for a boring academic). The point is that people get to find information about me, what I do, and easy access to my research.
 - Accessibility: inclusive design principle, such as alt text for images to support screen readers.
 - Flexibility: the web is designed to be extensible, allowing for easy changes in the future.
