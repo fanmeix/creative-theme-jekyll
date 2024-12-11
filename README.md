@@ -6,11 +6,9 @@
   
 # Project Structure: 
 - The project is organized into the following files and directories:
-* index.html: The main HTML file that structures the website content.
 * style.css: The stylesheet that defines the website's design and layout.
 * script.js: The JavaScript file that handles interactivity and dynamic elements.
-* assets/: A directory for images and other media used throughout the website.
-* README.md: The user documentation file.
+* README.md: The design documentation file.
 
 # Guiding Principles:
 - Simplicity: nothing fancy is needed for a personal website (for a boring academic). The point is that people get to find information about me, what I do, and easy access to my research.
@@ -18,7 +16,7 @@
 - Flexibility: the web is designed to be extensible, allowing for easy changes in the future.
 
 # Implementation:
-- HTML: The HTML file uses semantic elements for clarity. Each section of the website (About, Portfolio, Skills, Contact) is wrapped in atag, making it easy to navigate and style. 
+- HTML: The HTML file uses semantic elements for clarity. Each section of the website (About, Projects, Contact) is wrapped in a tag, making it easy to navigate and style. 
 - CSS: A custom CSS file (style.css) was created instead of relying on a framework to retain full control over the design. CSS layout techniques were used for alignment and such.
 - JavaScript: For interactive components (e.g. Event Listener)
 
